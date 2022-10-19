@@ -1,4 +1,4 @@
 # DrawingApp
-A kids drawing android app
+A android app for kids
 
 Language: Kotlin
